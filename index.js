@@ -1,1 +1,1 @@
-function doAmazingThings() { alert("doAmazingThings"); }
+function secondFile() { alert("second"); }
