@@ -1,1 +1,1 @@
-function secondFile() { alert("second"); }
+function secondJS() { alert("second"); }
