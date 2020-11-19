@@ -1,0 +1,1 @@
+function doAmazingThings() { alert("doAmazingThings"); }
